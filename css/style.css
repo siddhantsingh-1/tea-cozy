@@ -59,3 +59,26 @@ header li {
 .banner-text h4 {
     font-size: 18px;
 }
+
+/* Tea Section */
+
+.tea .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery figure {
+    margin: 10px 30px;
+}
+
+.gallery figure img{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.gallery figcaption {
+    font-size: 22px;
+    font-weight: 600;
+}
