@@ -35,6 +35,15 @@ header li {
 	margin: 0px 15px;
 }
 
+a {
+	color: white;
+	opacity: 0.9;
+}
+
+a:hover {
+	color: aquamarine;
+}
+
 /* Banner Section */
 
 .banner {
